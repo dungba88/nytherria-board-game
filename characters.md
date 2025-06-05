@@ -84,7 +84,7 @@ Gameplay: Mainly supporting abilities.
 
 ### ⚔️ The Soldier (×16)
 
-**Region**: Thalmyra  
+**Region**: Palmyria
 
 **Lore**: Faithful defenders of the crumbling kingdom.  
 
@@ -190,9 +190,11 @@ In Gameplay, they are still treated as Dark characters.
 
 ### 🕯️ The Harbinger (Faction Leader)
 
-Region: Land of the Dead
-Lore: Cloaked in bone-draped robes, the Harbinger is neither alive nor truly dead. They walk the land as the forerunner of mass decay — a silent omen that the balance of life is ending. Though they serve no mortal master, even the Reaper listens when the Harbinger speaks.
-Effect: All players must discard all but 1 of their cards to the graveyard.
+**Region**: Land of the Dead
+
+**Lore**: Cloaked in bone-draped robes, the Harbinger is neither alive nor truly dead. They walk the land as the forerunner of mass decay — a silent omen that the balance of life is ending. Though they serve no mortal master, even the Reaper listens when the Harbinger speaks.
+
+**Effect**: All players must discard all but 1 of their cards to the graveyard.
 
 ---
 
@@ -202,7 +204,7 @@ Effect: All players must discard all but 1 of their cards to the graveyard.
 
 ---
 
-### 🕯️ The Warlock (×1)  
+### 🕯️ The Warlock  
 **Region**: Land of the Dead  
 **Effect**: Take 1 card from the graveyard (except a Faction Leader) into your hand. You lose your next turn.
 

@@ -29,9 +29,9 @@ The game includes:
 
 ## ❖ Lore Summary
 
-Set in the broken world of **Nytherria**, the game takes place after the *Great Fracturing* — an ancient catastrophe that shattered the world and scattered the original **Stones of Life** across seven mythic regions. These lands are now divided between forces of Light and Darkness, each vying to restore or rewrite the fate of the world.
+Set in the broken world of **Nytherria**, the game takes place after the *Great Scattering* — an ancient catastrophe that shattered the world and scattered the original **Stone of Life** across seven mythic regions. These lands are now divided between forces of Light and Darkness, each vying to restore or rewrite the fate of the world.
 
-> 🔍 Explore the full lore, timeline, and regions in [lores.md](lores.md)
+> 🔍 Explore the full lore, timeline, and regions in [lores.md](lore.md)
 
 ---
 

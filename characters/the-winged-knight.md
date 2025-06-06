@@ -24,7 +24,7 @@ He exists not to rule, but to defend the light — especially from what once was
 
 ### 🕊 Gameplay Effect
 
-> *Cancel The Hex when it attempts to steal a magical stone.*
+> *Quickplay. Cancel The Hex when it attempts to steal a magical stone.*
 
 ---
 

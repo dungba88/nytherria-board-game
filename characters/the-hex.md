@@ -12,7 +12,7 @@
 
 ---
 
-Once a faithful handmaiden of the Astrals, she served in silence within the sacred halls of the ancient temple. But after the **Great Scattering**, she witnessed what came next — the kingdoms of men turned against one another, corrupted by greed, desecrating what was once divine.
+Once a faithful handmaiden of the Astrals, she served in silence within the sacred halls of the ancient temple. But after the **Great Shattering**, she witnessed what came next — the kingdoms of men turned against one another, corrupted by greed, desecrating what was once divine.
 
 Her faith shattered. Her heart twisted.
 

@@ -5,20 +5,20 @@
 <img src="../resources/images/cards/characters/the-luminary.png" width="300px"/>
 
 **Faction**: Light  
-**Origin**: The Skjoldheim Peak  
+**Origin**: The Sacred Peaks 
 **Role**: Sage of the Silent Heights  
 **Sanctuary**: The Mirror Vault  
 **Weapon**: None (wisdom and vision)
 
 ---
 
-High upon the storm-bitten crags of the **Skjoldheim Peak**, where the air thins and even the stars seem distant, a lone figure watches.
+High upon the storm-bitten crags of the **Sacred Peaks**, where the air thins and even the stars seem distant, a lone figure watches.
 
 **The Luminary** is no warrior, no priest — he is a **seeker**, a man who climbed beyond the noise of kingdoms and firelight in pursuit of truth. He sits alone within the **Mirror Vault**, a crystalline cave beneath the summit, where light bends and futures shimmer like snow in flame.
 
 Those who climb to meet him often do so with desperation in their hearts — and find not judgment, but stillness. The Luminary does not offer answers. He offers the clarity to ask the right questions.
 
-They say he once saw the Astral Court in a vision of molten dawn — and in doing so, remembered who he truly was.
+They say he once saw the Astrals in a vision of molten dawn — and in doing so, remembered who he truly was.
 
 ---
 

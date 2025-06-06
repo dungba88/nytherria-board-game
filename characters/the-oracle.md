@@ -16,7 +16,7 @@ They say she does not sleep — for sleep would sever her from the thread she we
 
 **The Oracle** lives in solitude, her tower standing just beyond the reach of Palmyria’s sun-kissed walls, perched between shadow and memory. She gazes into still water, into drifting smoke, into the echo of what was — and what may yet come.
 
-She foresaw the **Great Scattering**, though none heeded her warning. Now, with kingdoms broken and magic splintered, she speaks again — not in words, but in visions that burn behind the eyes.
+She foresaw the **Great Shattering**, though none heeded her warning. Now, with kingdoms broken and magic splintered, she speaks again — not in words, but in visions that burn behind the eyes.
 
 Her gift is not comfort. It is **clarity**, and the courage to bear it.
 

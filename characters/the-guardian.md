@@ -16,7 +16,7 @@ Few have seen **The Guardian** up close — and fewer still have lived to speak 
 
 It does not speak. It remembers.
 
-Legends say it was awakened in the first breath of the world, tasked by the Astrals to guard the boundary between realms. When the **Great Scattering** tore the sky and earth apart, it did not falter.
+Legends say it was awakened in the first breath of the world, tasked by the Astrals to guard the boundary between realms. When the **Great Shattering** tore the sky and earth apart, it did not falter.
 
 To this day, **The Saint** calls it her most faithful companion — though she has never claimed to command it.
 

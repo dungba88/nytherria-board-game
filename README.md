@@ -53,25 +53,6 @@ AI handles breadth and variation. Humans ensure depth and cohesion.
 
 ---
 
-## ❖ Project Status
-
-- ✅ Core game loop complete  
-- ✅ 60-card base character deck finalized  
-- ✅ Lore and region codex drafted  
-- ✅ Visual tarot-style card art underway  
-- 🧪 Playtesting and iteration in progress
-
----
-
-## ❖ Roadmap
-
-- [ ] Public print-and-play release  
-- [ ] Digital prototype (Tabletop Simulator or web)  
-- [ ] Full visual/lore codex  
-- [ ] Kickstarter or collector’s edition release
-
----
-
 ## ❖ License
 
 The Unlicense.

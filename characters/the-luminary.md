@@ -24,7 +24,7 @@ They say he once saw the Astral Court in a vision of molten dawn — and in doin
 
 ### 🕊 Gameplay Effect
 
-> *You may discard up to 3 cards from your hand. For each card discarded this way, draw 1 new card from the main deck.*
+> *Draw 3 cards, then discard 3 cards.*
 
 ---
 

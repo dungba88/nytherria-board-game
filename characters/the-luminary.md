@@ -5,7 +5,7 @@
 <img src="../resources/images/cards/characters/the-luminary.png" width="300px"/>
 
 **Faction**: Light  
-**Origin**: The Sacred Peaks 
+**Origin**: The Sacred Peaks  
 **Role**: Sage of the Silent Heights  
 **Sanctuary**: The Mirror Vault  
 **Weapon**: None (wisdom and vision)

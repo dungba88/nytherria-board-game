@@ -22,7 +22,7 @@ Though his body wearies, his presence commands. He is not merely ruler — he is
 
 ### 🕊 Gameplay Effect
 
-> *When played, destroy all Dark-faction character cards in both hands. Send all destroyed cards to the graveyard.*
+> *Faction Leader.  Send all Dark-faction character cards in all players' hands to graveyard.*
 
 ---
 

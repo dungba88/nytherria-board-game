@@ -12,7 +12,7 @@
 
 **Weapon**: The Sword of Light
 
-![the-king-card](resources/images/cards/characters/the-king.png)
+![the-king-card](../resources/images/cards/characters/the-king.png)
 
 ---
 

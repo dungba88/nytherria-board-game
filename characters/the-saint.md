@@ -14,7 +14,7 @@
 
 Among the clouds and chimes of **The Sacred Peaks**, where bells toll for no one yet still sing, walks **The Saint** — robed in mourning white, barefoot on wind-swept stone.
 
-She does not speak of the **Great Scattering**, but she walks its ruins in spirit every day. Her touch warms the dead. Her words ease the damned. Her staff, carved from elder wood, bears rings for every soul she has brought back from the edge.
+She does not speak of the **Great Shattering**, but she walks its ruins in spirit every day. Her touch warms the dead. Her words ease the damned. Her staff, carved from elder wood, bears rings for every soul she has brought back from the edge.
 
 To the wounded, she is salvation. To the lost, a gentle call home. Even the **Guardian**, golden and eternal, walks beside her — for she has never asked him to, and he never needed asking.
 

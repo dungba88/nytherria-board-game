@@ -12,7 +12,7 @@
 
 ---
 
-He descended from the clouds when the Scattering began — not as a savior, but as a sword.
+He descended from the clouds when the Great Shattering began — not as a savior, but as a sword.
 
 **The Winged Knight** is the sharp edge of justice, clad in radiant armor that glints with celestial fire. His wings, forged by the Astrals in forgotten aeons, beat not for glory, but for purpose. To see him fall from the heavens is to witness judgment.
 

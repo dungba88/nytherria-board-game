@@ -15,7 +15,7 @@
 
 Before the world shattered, he stood at the right hand of the Astrals — a guardian, a chosen. But when they turned their gaze away, he did not.
 
-Where others wept or wandered after the **Great Scattering**, he watched the world unravel. Then he acted.
+Where others wept or wandered after the **Great Shattering**, he watched the world unravel. Then he acted.
 
 **The Dark Lord** seeks not revenge, but *order* — his order. A new world, shaped by dominion and enforced by strength. One where the weak are ruled, where peace is hammered in fire, and where the Astrals, if they ever wake, will find their mercy obsolete.
 

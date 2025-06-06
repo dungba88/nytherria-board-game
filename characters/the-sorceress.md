@@ -14,7 +14,7 @@
 
 She withdrew from the world not in fear — but in refusal.
 
-Once a court mage of Palmyria, **The Sorceress** fled to the icy reaches of the **Sacred Peaks** after the Scattering, seeking clarity in cold and silence. There, in a glacier-bound sanctum carved with runes older than time, she communes with forces untouched by war.
+Once a court mage of Palmyria, **The Sorceress** fled to the icy reaches of the **Sacred Peaks** after the Great Shattering, seeking clarity in cold and silence. There, in a glacier-bound sanctum carved with runes older than time, she communes with forces untouched by war.
 
 Her spells are carved in frost, her power drawn from stillness and structure. She does not cast magic — she **restores what has been violated**.
 
